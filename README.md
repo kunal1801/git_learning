@@ -1,1 +1,3 @@
-# git_learning
+Git learning project
+
+Used to learn github system
